@@ -98,8 +98,6 @@ class authController {
             const query = await pgPool.query('UPDATE users SET email_confirmed = $2 WHERE id = $1',[id, true])
             if(query.rowCount >= 0)
             {
-                const token = generateAccessToken(dbUserId, (role.rows[0]).name)
-                localStorage.setItem("token", token)
                 res.redirect(process.env.FRONTAPP_URL);
             }
             else
