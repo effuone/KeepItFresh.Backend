@@ -5,6 +5,7 @@ import 'dotenv/config'
 import pgPool from '../database/db'
 import nodemailer from 'nodemailer'
 import sendEmail from '../services/mailService';
+import * as fs from 'fs/promises'
 
 const generateAccessToken = (id, role)=> {
     const payload = {
@@ -33,12 +34,13 @@ class authController {
             , [username, birthday, firstName, image, skinTypeId,locationId,email,0,hashPassword,phoneNumber, isCosmeticBagAvailable])
             await pgPool.query('INSERT INTO userroles (userid, roleid) values ($1,$2) RETURNING *', [newUser.rows[0].id, 1])
             const verificationLink = `${process.env.WEBAPP_URL}/confirmEmail/${(newUser.rows[0]).id}`
-            console.log(verificationLink)
+            const emailHtml1 = await fs.readFile('emailVerification1.html', {encoding:"utf8"}) 
+            const emailHtml2 = await fs.readFile('emailVerification2.html', {encoding:"utf8"}) 
             sendEmail(
                 email, 
                 "Keep It Fresh service email verification", 
                 "Confirm", 
-                verificationLink
+                emailHtml1+verificationLink+emailHtml2
             )
             return res.json({message: "User created successfull! Confirm your email."})
         }catch(e){
@@ -52,7 +54,7 @@ class authController {
             const {username, password} = req.body
             const getUserQuery = await pgPool.query('SELECT* FROM users where username like $1', [username])
             if(getUserQuery.rowCount <= 0 ) {
-                return res.status(400).json({message:'User not found or wrong password'})
+                return res.status(400).json({message:'User not found or wro`ng password'})
             }
             const dbUserId = (getUserQuery.rows[0]).id
             const role = await pgPool.query('SELECT users.id, roles.name FROM userroles, users, roles where userroles.userid = users.id and userroles.roleid = roles.id and users.id = $1', [dbUserId])

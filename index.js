@@ -5,6 +5,7 @@ import * as fs from 'fs/promises'
 import * as middleware from "./middlewares";
 import axios from "axios";
 import cheerio from 'cheerio'
+import sendEmail from "./services/mailService";
 const PORT = process.env.PORT || 9090
 
 const products = JSON.parse(await fs.readFile('products.json', {encoding: 'utf-8'}))
@@ -27,7 +28,6 @@ const getProductsPerPage = async (products, pagedUrl) => {
     products.push(product)
   })
 }
-
 
 
 // const url = 'https://kaspi.kz/shop/c/makeup%20removers/'
