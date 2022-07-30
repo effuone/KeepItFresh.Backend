@@ -16,7 +16,7 @@ export const authRouter = new Router();
 authRouter.get('/user/:id', authController.getUser)
 authRouter.post('/register/', authController.registration)
 authRouter.post('/login/', authController.login)
-authRouter.post('/confirmEmail/:id', authController.verifyEmail)
+authRouter.get('/confirmEmail/:id', authController.verifyEmail)
 
 export const productRouter = new Router();
 productRouter.post('/products/', isUser, productController.createProduct)

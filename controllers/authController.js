@@ -38,7 +38,7 @@ class authController {
                 email, 
                 "Keep It Fresh service email verification", 
                 "Confirm", 
-                `<form action=${verificationLink} method='POST'><div><button><h1>Confirm email</h1></button></div></form>`
+                verificationLink
             )
             return res.json({message: "User created successfull! Confirm your email."})
         }catch(e){
