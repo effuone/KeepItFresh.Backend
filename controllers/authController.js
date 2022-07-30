@@ -36,6 +36,8 @@ class authController {
             const verificationLink = `${process.env.WEBAPP_URL}/confirmEmail/${(newUser.rows[0]).id}`
             const emailHtml1 = await fs.readFile('emailVerification1.html', {encoding:"utf8"}) 
             const emailHtml2 = await fs.readFile('emailVerification2.html', {encoding:"utf8"}) 
+            console.log(process.env.WEBAPP_URL)
+            console.log(verificationLink)
             sendEmail(
                 email, 
                 "Keep It Fresh service email verification", 
