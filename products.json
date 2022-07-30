@@ -1,0 +1,1934 @@
+[
+  {
+    "id": 1,
+    "name": "Вода   мицеллярная увлажняющая MASDAR с гиалуроновой кислотой Zeitun\t",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5a8/142_180_175511db9cefbc414a902a46f1b8fae16/9943614.jpg",
+    "price": 4242
+  },
+  {
+    "id": 2,
+    "name": "Гидролат   \"Роза\" Zeitun\t",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5b5/142_180_175511db9cefbc414a902a46f1b8fae16/9944413.jpg",
+    "price": 5031
+  },
+  {
+    "id": 3,
+    "name": "Тоник-мист защитный Dara для сохранения молодости кожи с био-медью Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/df2/142_180_175511db9cefbc414a902a46f1b8fae16/9942385.jpg",
+    "price": 5623
+  },
+  {
+    "id": 4,
+    "name": "Сыворотка для контура глаз Zeitun DARA против отеков и первых морщин Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c9f/142_180_175511db9cefbc414a902a46f1b8fae16/9948923.jpg",
+    "price": 11179
+  },
+  {
+    "id": 5,
+    "name": "Детокс-эликсир для лица ночной Zeitun DARA против первых признаков старения с 99.9% медью Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/aeb/142_180_175511db9cefbc414a902a46f1b8fae16/9948855.jpg",
+    "price": 11804
+  },
+  {
+    "id": 6,
+    "name": "Маска ночная восстанавливающая Dara Beauty Sleep против усталости и первых признаков старения Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/82a/142_180_175511db9cefbc414a902a46f1b8fae16/9940880.jpg",
+    "price": 13613
+  },
+  {
+    "id": 7,
+    "name": "Бальзам для лица очищающий тающий Dara De-stress Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a33/142_180_175511db9cefbc414a902a46f1b8fae16/9940859.jpg",
+    "price": 12034
+  },
+  {
+    "id": 8,
+    "name": "Эликсир масляный питательный GIZA для сухой кожи лица с дамасской розой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/6d9/142_180_175511db9cefbc414a902a46f1b8fae16/9948800.jpg",
+    "price": 16671
+  },
+  {
+    "id": 9,
+    "name": "Масло очищающее для снятия макияжа Giza для сухой кожи с дамасской розой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a65/142_180_175511db9cefbc414a902a46f1b8fae16/9942507.jpg",
+    "price": 10226
+  },
+  {
+    "id": 10,
+    "name": "SOS-крем восстанавливающий GIZA для очень сухой кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/580/142_180_175511db9cefbc414a902a46f1b8fae16/9942709.jpg",
+    "price": 13251
+  },
+  {
+    "id": 11,
+    "name": "Тоник-мист успокаивающий Hudu для чувствительной кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9f5/142_180_175511db9cefbc414a902a46f1b8fae16/9942408.jpg",
+    "price": 5623
+  },
+  {
+    "id": 12,
+    "name": "Крем успокаивающий HUDU для чувствительной кожи, восстанавливающий иммунитет Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e92/142_180_175511db9cefbc414a902a46f1b8fae16/9942730.jpg",
+    "price": 13251
+  },
+  {
+    "id": 13,
+    "name": "Флюид-сияние дневной LULU со светоотражающими частицами \"Розовое Сияние\" Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/595/142_180_175511db9cefbc414a902a46f1b8fae16/9942778.jpg",
+    "price": 13152
+  },
+  {
+    "id": 14,
+    "name": "Флюид-сияние дневной LULU со светоотражающими частицами \"Золотое Сияние\" Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/123/142_180_175511db9cefbc414a902a46f1b8fae16/9946202.jpg",
+    "price": 13152
+  },
+  {
+    "id": 15,
+    "name": "Тоник энергетический и pH-балансирующий Lulu для тусклой кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/37f/142_180_175511db9cefbc414a902a46f1b8fae16/9942392.jpg",
+    "price": 5721
+  },
+  {
+    "id": 16,
+    "name": "Эликсир масляный витаминный LULU для сияния кожи лица Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/cb8/142_180_175511db9cefbc414a902a46f1b8fae16/9948824.jpg",
+    "price": 16901
+  },
+  {
+    "id": 17,
+    "name": "Маска-скраб обновляющая Lulu Pure Radiance против тусклости и неровного цвета лица Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a29/142_180_175511db9cefbc414a902a46f1b8fae16/9941450.jpg",
+    "price": 11278
+  },
+  {
+    "id": 18,
+    "name": "Крем-совершенство LULU для идеального тона лица Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7c6/142_180_175511db9cefbc414a902a46f1b8fae16/9942716.jpg",
+    "price": 14566
+  },
+  {
+    "id": 19,
+    "name": "Эмульсия легкая увлажняющая MASDAR с гиалуроновой кислотой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/283/142_180_175511db9cefbc414a902a46f1b8fae16/9942754.jpg",
+    "price": 12692
+  },
+  {
+    "id": 20,
+    "name": "Сыворотка для лица ультра-увлажняющая MASDAR с гиалуроновой кислотой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9a0/142_180_175511db9cefbc414a902a46f1b8fae16/9948916.jpg",
+    "price": 14106
+  },
+  {
+    "id": 21,
+    "name": "Эликсир масляный увлажняющий для лица MASDAR с экстрактом солероса Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/8f5/142_180_175511db9cefbc414a902a46f1b8fae16/9948794.jpg",
+    "price": 15980
+  },
+  {
+    "id": 22,
+    "name": "Крем насыщенный увлажняющий MASDAR для сильно обезвоженной кожи с гиалуроновой кислотой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b71/142_180_175511db9cefbc414a902a46f1b8fae16/9942693.jpg",
+    "price": 12692
+  },
+  {
+    "id": 23,
+    "name": "Гель для умывания сахарный увлажняющий MASDAR с гиалуроновой кислотой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5c2/142_180_175511db9cefbc414a902a46f1b8fae16/9943591.jpg",
+    "price": 4899
+  },
+  {
+    "id": 24,
+    "name": "Лифтинг-эссенция SAIDA для зрелой кожи с 24К золотом Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/216/142_180_175511db9cefbc414a902a46f1b8fae16/9948879.jpg",
+    "price": 19169
+  },
+  {
+    "id": 25,
+    "name": "Эликсир масляный ночной омолаживающий SAIDA для лица с 24К золотом Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/42c/142_180_175511db9cefbc414a902a46f1b8fae16/9948831.jpg",
+    "price": 20090
+  },
+  {
+    "id": 26,
+    "name": "Эликсир масляный разглаживающий для контура глаз SAIDA с арганой и ладаном Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/125/142_180_175511db9cefbc414a902a46f1b8fae16/9948930.jpg",
+    "price": 14763
+  },
+  {
+    "id": 27,
+    "name": "Масло для снятия макияжа очищающее Saida для зрелой кожи с арганой Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/440/142_180_175511db9cefbc414a902a46f1b8fae16/9942514.jpg",
+    "price": 12495
+  },
+  {
+    "id": 28,
+    "name": "Крем-лифтинг дневной разглаживающий Saida для зрелой кожи с 24K золотом Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/448/142_180_175511db9cefbc414a902a46f1b8fae16/9942723.jpg",
+    "price": 16736
+  },
+  {
+    "id": 29,
+    "name": "Флюид дневной матирующий без масел Niqa для комбинированной и жирной кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f14/142_180_175511db9cefbc414a902a46f1b8fae16/9943153.jpg",
+    "price": 12692
+  },
+  {
+    "id": 30,
+    "name": "Эликсир масляный преображающий NIQA для проблемной кожи лица с серебром Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/375/142_180_175511db9cefbc414a902a46f1b8fae16/9948817.jpg",
+    "price": 15980
+  },
+  {
+    "id": 31,
+    "name": "Детокс-маска Niqa Flawless для глуб очищ пор,борьбы с несоверш-ми с углем,марокканской глиной Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a83/142_180_175511db9cefbc414a902a46f1b8fae16/9941443.jpg",
+    "price": 10818
+  },
+  {
+    "id": 32,
+    "name": "Гель-скраб для умывания глубоко очищающий Niqa для проблемной кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5b6/142_180_175511db9cefbc414a902a46f1b8fae16/9942491.jpg",
+    "price": 4899
+  },
+  {
+    "id": 33,
+    "name": "Мыло алеппское оливково-лавровое премиум \"Традиционное\" Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0c4/142_180_175511db9cefbc414a902a46f1b8fae16/9949036.jpg",
+    "price": 5886
+  },
+  {
+    "id": 34,
+    "name": "Мыло алеппское премиум “Серное” для проблемной кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f5c/142_180_175511db9cefbc414a902a46f1b8fae16/9940187.jpg",
+    "price": 3288
+  },
+  {
+    "id": 35,
+    "name": "Мыло алеппское премиум “Лавандовый скраб” Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/617/142_180_175511db9cefbc414a902a46f1b8fae16/9940132.jpg",
+    "price": 5162
+  },
+  {
+    "id": 36,
+    "name": "Масло касторовое натуральное Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7d5/142_180_175511db9cefbc414a902a46f1b8fae16/9944499.jpg",
+    "price": 3946
+  },
+  {
+    "id": 37,
+    "name": "Масло арганы органическое, нерафинированное, прямого холодного отжима Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a04/142_180_175511db9cefbc414a902a46f1b8fae16/9944505.jpg",
+    "price": 11738
+  },
+  {
+    "id": 38,
+    "name": "Крем экспресс-лифтинг №7 Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/be1/142_180_175511db9cefbc414a902a46f1b8fae16/9947360.jpg",
+    "price": 11278
+  },
+  {
+    "id": 39,
+    "name": "Крем для лица ночной №1 Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5ad/142_180_175511db9cefbc414a902a46f1b8fae16/9947308.jpg",
+    "price": 9305
+  },
+  {
+    "id": 40,
+    "name": "Крем для лица дневной №2 Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a2f/142_180_175511db9cefbc414a902a46f1b8fae16/9947315.jpg",
+    "price": 9305
+  },
+  {
+    "id": 41,
+    "name": "Крем вокруг глаз и для ресниц №3 Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/df3/142_180_175511db9cefbc414a902a46f1b8fae16/9947322.jpg",
+    "price": 11278
+  },
+  {
+    "id": 42,
+    "name": "Молочко-пролонгатор увлажняющее загара с эритрулозой и босвелией Sun & Done Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c88/142_180_175511db9cefbc414a902a46f1b8fae16/9942583_min.jpg",
+    "price": 5401
+  },
+  {
+    "id": 43,
+    "name": "Крем для сухой кожи мужской Lifesaver Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c60/142_180_175511db9cefbc414a902a46f1b8fae16/9942842_min.jpg",
+    "price": 5549
+  },
+  {
+    "id": 44,
+    "name": "Тонер против черных точек и несовершенств для комбинированной и жирной кожи Res-Q Water Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b8d/142_180_175511db9cefbc414a902a46f1b8fae16/9942613_min.jpg",
+    "price": 5154
+  },
+  {
+    "id": 45,
+    "name": "Тонер-мист увлажняющий с гиалуроновой кислотой и розовой водой Hydra Veil Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7c3/142_180_175511db9cefbc414a902a46f1b8fae16/9942590_min.jpg",
+    "price": 5647
+  },
+  {
+    "id": 46,
+    "name": "Тонер обновляющий с низким pH и витамином С Glow Water Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/099/142_180_175511db9cefbc414a902a46f1b8fae16/9942606_min.jpg",
+    "price": 5647
+  },
+  {
+    "id": 47,
+    "name": "Cыворотка-бустер для лица с эффектом ботокса с матрикинами и Gaba X-press Drops Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1f2/142_180_175511db9cefbc414a902a46f1b8fae16/9941258_min.jpg",
+    "price": 15043
+  },
+  {
+    "id": 48,
+    "name": "Cыворотка-бустер для защиты от городской среды с комплексом anti-pollution Urban Drops Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1bf/142_180_175511db9cefbc414a902a46f1b8fae16/9941333_min.jpg",
+    "price": 11590
+  },
+  {
+    "id": 49,
+    "name": "Cыворотка-бустер с BHA и цинком против несовершенств и жирности кожи Res-Q Drops Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/750/142_180_175511db9cefbc414a902a46f1b8fae16/9940954_min.jpg",
+    "price": 11590
+  },
+  {
+    "id": 50,
+    "name": "Cыворотка-бустер увлажнения с 3 видами гиалуроновой кислоты и витамином В5 Hydra Drops Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c2e/142_180_175511db9cefbc414a902a46f1b8fae16/9940824_min.jpg",
+    "price": 11590
+  },
+  {
+    "id": 51,
+    "name": "Cыворотка-бустер с витамином С для идеального цвета лица Glow Drops Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/be6/142_180_175511db9cefbc414a902a46f1b8fae16/9940947_min.jpg",
+    "price": 11590
+  },
+  {
+    "id": 52,
+    "name": "Вода мицеллярная для всех типов кожи с комплексом bio-protect, витамином Е Skin zen Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/556/142_180_175511db9cefbc414a902a46f1b8fae16/9942989_min.jpg",
+    "price": 5401
+  },
+  {
+    "id": 53,
+    "name": "Масло-праймер под макияж с маслами чиа, конопли и асаи Wow Drops Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/227/142_180_175511db9cefbc414a902a46f1b8fae16/9940831_min.jpg",
+    "price": 9840
+  },
+  {
+    "id": 54,
+    "name": "Масло гидрофильное увлажняющее с маслами миндаля и манго Softbare Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/284/142_180_175511db9cefbc414a902a46f1b8fae16/9942965_min.jpg",
+    "price": 9371
+  },
+  {
+    "id": 55,
+    "name": "Масло гидрофильное для глубокого очищения с маслами черного тмина, чайного дерева Porifier Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c36/142_180_175511db9cefbc414a902a46f1b8fae16/9942958_min.jpg",
+    "price": 9371
+  },
+  {
+    "id": 56,
+    "name": "Детокс-маска для глубокого очищения пор с тремя глинами и маслом черного тмина Skin HD Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/18d/142_180_175511db9cefbc414a902a46f1b8fae16/9943795_min.jpg",
+    "price": 8508
+  },
+  {
+    "id": 57,
+    "name": "Средство мультифункциональное для мягкости, гладкости кожи с экстрактом шиповника Babyface Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/707/142_180_175511db9cefbc414a902a46f1b8fae16/9943788_min.jpg",
+    "price": 9741
+  },
+  {
+    "id": 58,
+    "name": "Флюид-корректор пор матирующий для комбинированной и жирной кожи Matte Max Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d62/142_180_175511db9cefbc414a902a46f1b8fae16/9941135_min.jpg",
+    "price": 9618
+  },
+  {
+    "id": 59,
+    "name": "Флюид для лица легкий увлажняющий с гиалуроновой кислотой и скваланом Hydra Mate Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/016/142_180_175511db9cefbc414a902a46f1b8fae16/9940855_min.jpg",
+    "price": 9618
+  },
+  {
+    "id": 60,
+    "name": "Крем насыщенный увлажняющий для лица с гиалуроновой кислотой и церамидами Hydra SPA Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/404/142_180_175511db9cefbc414a902a46f1b8fae16/9940862_min.jpg",
+    "price": 10357
+  },
+  {
+    "id": 61,
+    "name": "Крем-энергетик легкий против усталости кожи с эффектом сияния Glow Glaze Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/fa9/142_180_175511db9cefbc414a902a46f1b8fae16/9940848_min.jpg",
+    "price": 9618
+  },
+  {
+    "id": 62,
+    "name": "Крем ночной интенсивно омолаживающий с матриксилом и ретинолом X-press Recovery Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/84f/142_180_175511db9cefbc414a902a46f1b8fae16/9941272_min.jpg",
+    "price": 20715
+  },
+  {
+    "id": 63,
+    "name": "Крем омолаживающий с эффектом моментального лифтинга с коллагеном и Матриксилом X-press Makeover Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/959/142_180_175511db9cefbc414a902a46f1b8fae16/9941265_min.jpg",
+    "price": 14796
+  },
+  {
+    "id": 64,
+    "name": "Крем для лица совершенствующий многофункциональный с витамином С и годжи Glow SPA Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5dd/142_180_175511db9cefbc414a902a46f1b8fae16/9941289_min.jpg",
+    "price": 10357
+  },
+  {
+    "id": 65,
+    "name": "Филлер неинвазивный для моментального заполнения морщин с коллагеном, гиалуроновой кислотой Beauty shot Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/61c/142_180_175511db9cefbc414a902a46f1b8fae16/9943610_min.jpg",
+    "price": 20838
+  },
+  {
+    "id": 66,
+    "name": "Гель-скраб для умывания обновляющий с витамином С и низким pH Pure Glow Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5b0/142_180_175511db9cefbc414a902a46f1b8fae16/9941296_min.jpg",
+    "price": 6116
+  },
+  {
+    "id": 67,
+    "name": "Гель для умывания глубокоочищающий с бамбуковым углем и чайным деревом Pure Black Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0a5/142_180_175511db9cefbc414a902a46f1b8fae16/9940879_min.jpg",
+    "price": 5672
+  },
+  {
+    "id": 68,
+    "name": "BB-крем тонирующий с гиалуроновой кислотой - №1 светлый бежевый Nude Perfector Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/884/142_180_175511db9cefbc414a902a46f1b8fae16/9940886_min.jpg",
+    "price": 4850
+  },
+  {
+    "id": 69,
+    "name": "BB-крем тонирующий с гиалуроновой кислотой - №2 теплый бежевый Nude Perfector Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/461/142_180_175511db9cefbc414a902a46f1b8fae16/9940893_min.jpg",
+    "price": 4850
+  },
+  {
+    "id": 70,
+    "name": "Крем для лица с защитным комплексом от синего излучения 50 мл GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b44/142_180_175511db9cefbc414a902a46f1b8fae16/1349_142.jpg",
+    "price": 24562
+  },
+  {
+    "id": 71,
+    "name": "Липо-крем защитный с маслом норки Protect Lipo Cream, ARAVIA Professional, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/224/142_180_175511db9cefbc414a902a46f1b8fae16/6615045_01s_min.jpg",
+    "price": 6527
+  },
+  {
+    "id": 72,
+    "name": "Молочко регенерирующее с коллоидным серебром для лица и тела Revita Milk, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/da4/142_180_175511db9cefbc414a902a46f1b8fae16/6615212_01s_min.jpg",
+    "price": 5581
+  },
+  {
+    "id": 73,
+    "name": "Сыворотка SERUM SERUM SERUM, Foreo, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a51/142_180_175511db9cefbc414a902a46f1b8fae16/1920462_01s_min.jpg",
+    "price": 49239
+  },
+  {
+    "id": 74,
+    "name": "Микроигольные патчи для лба, BLOM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/633/142_180_175511db9cefbc414a902a46f1b8fae16/9823111_9823128_01s_min.jpg",
+    "price": 13892
+  },
+  {
+    "id": 75,
+    "name": "Микроигольные патчи Syn-Ake от морщин, BLOM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b7b/142_180_175511db9cefbc414a902a46f1b8fae16/9823098_9823104_01s_min.jpg",
+    "price": 7316
+  },
+  {
+    "id": 76,
+    "name": "Микроигольные патчи \"Янтарная кислота\" от синяков, BLOM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9e6/142_180_175511db9cefbc414a902a46f1b8fae16/9823050_9823043_01s_min.jpg",
+    "price": 7316
+  },
+  {
+    "id": 77,
+    "name": "Микроигольные патчи \"Кофеин\" от отечности, BLOM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e50/142_180_175511db9cefbc414a902a46f1b8fae16/9823036_9823029_01s_min.jpg",
+    "price": 22112
+  },
+  {
+    "id": 78,
+    "name": "Микроигольные патчи \"Увлажнение и разглаживание\", BLOM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/6be/142_180_175511db9cefbc414a902a46f1b8fae16/9823005_9823012_01s_min.jpg",
+    "price": 7316
+  },
+  {
+    "id": 79,
+    "name": "Восстанавливающая маска для UFO/UFO mini Мед Манука, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/708/142_180_175511db9cefbc414a902a46f1b8fae16/1929304_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 80,
+    "name": "Очищающая маска для UFO Зеленый чай, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/005/142_180_175511db9cefbc414a902a46f1b8fae16/1929328_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 81,
+    "name": "Питательная маска для UFO/UFO mini Кокосовое масло, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/157/142_180_175511db9cefbc414a902a46f1b8fae16/1929267_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 82,
+    "name": "Увлажняющая маска для UFO Болгарская роза, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0b0/142_180_175511db9cefbc414a902a46f1b8fae16/1929281_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 83,
+    "name": "Тонизирующая маска для UFO и UFO mini Ягода Асаи, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/09c/142_180_175511db9cefbc414a902a46f1b8fae16/1929403_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 84,
+    "name": "Коллагеновая маска для лица Youth Junkie Mask, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/65d/142_180_175511db9cefbc414a902a46f1b8fae16/1923968_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 85,
+    "name": "Маска для лица для жирной кожи Matte Maniac Mask, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b87/142_180_175511db9cefbc414a902a46f1b8fae16/1923975_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 86,
+    "name": "Освежающая маска для глаз Shimmer Freak Mask, Foreo, 6 шт х 4 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/aa0/142_180_175511db9cefbc414a902a46f1b8fae16/1923982_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 87,
+    "name": "Улучшенная осветляющая маска для лица Glow Addict Mask, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b02/142_180_175511db9cefbc414a902a46f1b8fae16/1923944_01s.jpg",
+    "price": 20468
+  },
+  {
+    "id": 88,
+    "name": "Ультра-увлажняющая маска для сухой кожи H2Overdose Mask, Foreo, 6 шт х 6 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/90a/142_180_175511db9cefbc414a902a46f1b8fae16/1923951_01s_min.jpg",
+    "price": 20468
+  },
+  {
+    "id": 89,
+    "name": "Маска для лица SeaTherapy Boto Mask Viso, GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/dad/142_180_175511db9cefbc414a902a46f1b8fae16/6761301s_min.jpg",
+    "price": 17657
+  },
+  {
+    "id": 90,
+    "name": "Маска плёночная для лица отшелушивающая омолаживающая, GUAM, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e7e/142_180_175511db9cefbc414a902a46f1b8fae16/6761021_01s_min.jpg",
+    "price": 22934
+  },
+  {
+    "id": 91,
+    "name": "Энзимная маска для лица без смывания, GUAM, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/71d/142_180_175511db9cefbc414a902a46f1b8fae16/6761014_01s_min.jpg",
+    "price": 16966
+  },
+  {
+    "id": 92,
+    "name": "Крем-лифтинг против морщин, GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/80d/142_180_175511db9cefbc414a902a46f1b8fae16/6761120_01s_min.jpg",
+    "price": 21701
+  },
+  {
+    "id": 93,
+    "name": "Молочко очищающее для нормальной и сухой кожи, GUAM, 200 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/234/142_180_175511db9cefbc414a902a46f1b8fae16/6761090_01s_min.jpg",
+    "price": 8779
+  },
+  {
+    "id": 94,
+    "name": "Кислородная эмульсия 4 для роста бровей, Perfleor, 20 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e07/142_180_175511db9cefbc414a902a46f1b8fae16/6729650_1s_min.jpg",
+    "price": 22194
+  },
+  {
+    "id": 95,
+    "name": "Крем для лица балансирующий с матирующим эффектом, ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/336/142_180_175511db9cefbc414a902a46f1b8fae16/6614819_1s_min.jpg",
+    "price": 8417
+  },
+  {
+    "id": 96,
+    "name": "Крем для лица восстанавливающий с азуленом Azulene Face Cream, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5a2/142_180_175511db9cefbc414a902a46f1b8fae16/6614789_1s_min.jpg",
+    "price": 8985
+  },
+  {
+    "id": 97,
+    "name": "Маска, активированная UFO, Make My Day Foreo, 7 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/96c/142_180_175511db9cefbc414a902a46f1b8fae16/foreo_ufo_make_my_day_142.jpg",
+    "price": 11426
+  },
+  {
+    "id": 98,
+    "name": "Оживляющая сыворотка-флюид Vitality Serum, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/156/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0020_6613324.jpg",
+    "price": 10859
+  },
+  {
+    "id": 99,
+    "name": "Маска восстанавливающая с липоевой кислотой Revitalizing Lipoic Mask ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/bec/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0030_6613140.jpg",
+    "price": 9363
+  },
+  {
+    "id": 100,
+    "name": "Крем-маска супер увлажняющая Hyaluronic Acid Mask ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b9b/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0028_6613201.jpg",
+    "price": 9363
+  },
+  {
+    "id": 101,
+    "name": "Капсулы набор сывороток Lift Serum miShipy",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d5d/142_180_175511db9cefbc414a902a46f1b8fae16/9845709_142.jpg",
+    "price": 24578
+  },
+  {
+    "id": 102,
+    "name": "Капсулы для шеи и декольте Lift Serum Neckline miShipy",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/aa1/142_180_175511db9cefbc414a902a46f1b8fae16/9843750_142.jpg",
+    "price": 9782
+  },
+  {
+    "id": 103,
+    "name": "Капсулы для лица для лифтинга Lift Serum EGF Time miShipy",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/df0/142_180_175511db9cefbc414a902a46f1b8fae16/9843743_142.jpg",
+    "price": 8138
+  },
+  {
+    "id": 104,
+    "name": "Гидролат   \"Чайное дерево\" Zeitun\t",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5e7/142_180_175511db9cefbc414a902a46f1b8fae16/9944444.jpg",
+    "price": 3946
+  },
+  {
+    "id": 105,
+    "name": "Пенка для умывания нежная молочная HUDU для чувствительной кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/437/142_180_175511db9cefbc414a902a46f1b8fae16/9943577.jpg",
+    "price": 6247
+  },
+  {
+    "id": 106,
+    "name": "Пилинг-сыворотка для лица ежедневная LULU с натуральными АНА-кислотами Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b20/142_180_175511db9cefbc414a902a46f1b8fae16/9948893.jpg",
+    "price": 13152
+  },
+  {
+    "id": 107,
+    "name": "Гель для умывания энергетический LULU для тусклой кожи с витамином С и мандарином Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/540/142_180_175511db9cefbc414a902a46f1b8fae16/9943584.jpg",
+    "price": 6379
+  },
+  {
+    "id": 108,
+    "name": "Тоник увлажняющий Masdar с гиалуроновой кислотой для всех типов кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/134/142_180_175511db9cefbc414a902a46f1b8fae16/9942415.jpg",
+    "price": 4505
+  },
+  {
+    "id": 109,
+    "name": "Экспресс-маска освежающая Masdar Oasis для интенс увл кожи с гиалур кислотой, огуречным соком Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/6f8/142_180_175511db9cefbc414a902a46f1b8fae16/9941436.jpg",
+    "price": 11278
+  },
+  {
+    "id": 110,
+    "name": "Тоник восстанавливающий Saida для зрелой кожи с 24К золотом Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ec1/142_180_175511db9cefbc414a902a46f1b8fae16/9942378.jpg",
+    "price": 6576
+  },
+  {
+    "id": 111,
+    "name": "Гель для умывания возрождающий SAIDA для зрелой кожи с 24K золотом Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b04/142_180_175511db9cefbc414a902a46f1b8fae16/9943607.jpg",
+    "price": 7332
+  },
+  {
+    "id": 112,
+    "name": "Тоник очищающий против несовершенств Niqa для комбинированной и жирной кожи с серебром Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/743/142_180_175511db9cefbc414a902a46f1b8fae16/9942361.jpg",
+    "price": 4505
+  },
+  {
+    "id": 113,
+    "name": "Мыло алеппское экстра \"Сосновый деготь\" против акне и перхоти Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/af0/142_180_175511db9cefbc414a902a46f1b8fae16/9940330.jpg",
+    "price": 3650
+  },
+  {
+    "id": 114,
+    "name": "Мыло алеппское экстра \"Сосновый деготь\" против акне и перхоти Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c79/142_180_175511db9cefbc414a902a46f1b8fae16/9940330.jpg",
+    "price": 3650
+  },
+  {
+    "id": 115,
+    "name": "Мыло алеппское экстра \"Дамасская роза\" для чувствительной кожи Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a80/142_180_175511db9cefbc414a902a46f1b8fae16/9940422.jpg",
+    "price": 3847
+  },
+  {
+    "id": 116,
+    "name": "Мыло алеппское премиум \"Ароматы гарема\" с афродизиаком Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0c6/142_180_175511db9cefbc414a902a46f1b8fae16/9940163.jpg",
+    "price": 3288
+  },
+  {
+    "id": 117,
+    "name": "Масло виноградных косточек натуральное Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0d2/142_180_175511db9cefbc414a902a46f1b8fae16/9944512.jpg",
+    "price": 6017
+  },
+  {
+    "id": 118,
+    "name": "Скраб для губ с гранулами овса Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/cbd/142_180_175511db9cefbc414a902a46f1b8fae16/9947414.jpg",
+    "price": 2828
+  },
+  {
+    "id": 119,
+    "name": "Бальзам для губ \"Питательный\" Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5b5/142_180_175511db9cefbc414a902a46f1b8fae16/9947438.jpg",
+    "price": 2828
+  },
+  {
+    "id": 120,
+    "name": "Бальзам для губ \"Заживляющий\" Zeitun",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c40/142_180_175511db9cefbc414a902a46f1b8fae16/9947421.jpg",
+    "price": 2828
+  },
+  {
+    "id": 121,
+    "name": "Масло шелковое для интенсивного загара SPF 5 с натуральным каротином и манго Sun Snap Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/4b8/142_180_175511db9cefbc414a902a46f1b8fae16/9942569_min.jpg",
+    "price": 6880
+  },
+  {
+    "id": 122,
+    "name": "Крем-флюид для лица матирующий мужской Refiner Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b1a/142_180_175511db9cefbc414a902a46f1b8fae16/9942798_min.jpg",
+    "price": 9618
+  },
+  {
+    "id": 123,
+    "name": "Вода мицеллярная для жирной и проблемной кожи с цинком,гингко билоба,гамамелисом All-clear Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/556/142_180_175511db9cefbc414a902a46f1b8fae16/9942972_min.jpg",
+    "price": 5401
+  },
+  {
+    "id": 124,
+    "name": "Средство двухфазное для снятия водостойкого макияжа с глаз и губ с виноградом",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a30/142_180_175511db9cefbc414a902a46f1b8fae16/9942996_min.jpg",
+    "price": 5425
+  },
+  {
+    "id": 125,
+    "name": "Маска для лица ночная восстанавливающая против усталост с гиалуроновой кислотой Afterparty Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/da5/142_180_175511db9cefbc414a902a46f1b8fae16/9943801_min.jpg",
+    "price": 9741
+  },
+  {
+    "id": 126,
+    "name": "Крем-флюид дневной против первых признаков старения с комплексом anti-pollution, SPF15 Urban Mate Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a2c/142_180_175511db9cefbc414a902a46f1b8fae16/9943146_min.jpg",
+    "price": 12330
+  },
+  {
+    "id": 127,
+    "name": "Гель для умывания мицеллярный увлажняющий с гиалуроновой кислотой, провитамином B5 и алоэ вера Pure hydra Beautific",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/026/142_180_175511db9cefbc414a902a46f1b8fae16/9942941_min.jpg",
+    "price": 6116
+  },
+  {
+    "id": 128,
+    "name": "Лосьон после бритья от раздражения кожи и вросших волос After Shave Lotion 100 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/870/142_180_175511db9cefbc414a902a46f1b8fae16/9954271.jpg",
+    "price": 3814
+  },
+  {
+    "id": 129,
+    "name": "Масло-крем увлажнение и питание \"Царь\" Oil Boil 100 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/bec/142_180_175511db9cefbc414a902a46f1b8fae16/9954578.jpg",
+    "price": 10275
+  },
+  {
+    "id": 130,
+    "name": "Бальзам после бритья с охлаждающим эффектом \"Царь\" 5th Element 150 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1ef/142_180_175511db9cefbc414a902a46f1b8fae16/9954592.jpg",
+    "price": 6165
+  },
+  {
+    "id": 131,
+    "name": "Масло-смузи увлажнение и питание Smoothie Oil 100 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f7e/142_180_175511db9cefbc414a902a46f1b8fae16/9954561.jpg",
+    "price": 9453
+  },
+  {
+    "id": 132,
+    "name": "Гидрофильное масло для умывания и снятия макияжа Liquid Silk Cleansing Oil 110 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/21d/105_180_175511db9cefbc414a902a46f1b8fae16/9954639.jpg",
+    "price": 7809
+  },
+  {
+    "id": 133,
+    "name": "Увлажняющая мицеллярная вода для снятия макияжа Skin Purity Micellar Water 200 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/76e/142_180_175511db9cefbc414a902a46f1b8fae16/9954707.jpg",
+    "price": 5343
+  },
+  {
+    "id": 134,
+    "name": "Интенсивная сыворотка с тетрапептидами Tetrapeptide Intense Seru 30 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/8a0/142_180_175511db9cefbc414a902a46f1b8fae16/9954691.jpg",
+    "price": 9864
+  },
+  {
+    "id": 135,
+    "name": "Крем-глина для умывания Velvet Cream Clay Wash «Protoskn» 150 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d8f/142_180_175511db9cefbc414a902a46f1b8fae16/9954684.jpg",
+    "price": 4274
+  },
+  {
+    "id": 136,
+    "name": "Пенка-мусс универсальная для снятия макияжа и умывания Removing Makeup & Washing 150 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9c8/142_180_175511db9cefbc414a902a46f1b8fae16/9954677.jpg",
+    "price": 5097
+  },
+  {
+    "id": 137,
+    "name": "Крем фейслифтинг с матриксилом Turn Back Time Polypeptide Cream 50 мл Protokeratin",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0b0/142_180_175511db9cefbc414a902a46f1b8fae16/9954660.jpg",
+    "price": 14796
+  },
+  {
+    "id": 138,
+    "name": "Патчи для увеличения объема губ 4 шт в упак GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/cb5/142_180_175511db9cefbc414a902a46f1b8fae16/1356_142.jpg",
+    "price": 16671
+  },
+  {
+    "id": 139,
+    "name": "Крем для области шеи и декольте 75 мл GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/aab/142_180_175511db9cefbc414a902a46f1b8fae16/1370_142.jpg",
+    "price": 16671
+  },
+  {
+    "id": 140,
+    "name": "Крем для лица увлажняющий 50 мл GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2ae/142_180_175511db9cefbc414a902a46f1b8fae16/1363_142.jpg",
+    "price": 16671
+  },
+  {
+    "id": 141,
+    "name": "Крем-лифтинг для лица против морщин 50 мл GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a4d/142_180_175511db9cefbc414a902a46f1b8fae16/1325_142.jpg",
+    "price": 26633
+  },
+  {
+    "id": 142,
+    "name": "Маска для лица энзимная ночная 75 мл GUAM",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/eb0/142_180_175511db9cefbc414a902a46f1b8fae16/6761318_142.jpg",
+    "price": 17164
+  },
+  {
+    "id": 143,
+    "name": "Зубная паста детская виноград (от 0 до 6 лет), Biorepair Kids, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/037/142_180_175511db9cefbc414a902a46f1b8fae16/9801076_01s_min.jpg",
+    "price": 3781
+  },
+  {
+    "id": 144,
+    "name": "Зубная паста детская персик (от 0 до 6 лет), Biorepair Kids, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/fb4/142_180_175511db9cefbc414a902a46f1b8fae16/9809202_01s_min.jpg",
+    "price": 3781
+  },
+  {
+    "id": 145,
+    "name": "Полоски отбеливающие Сила Кислорода Flash White Strips O3X, BlanX",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/6cb/142_180_175511db9cefbc414a902a46f1b8fae16/9805624_01s_min.jpg",
+    "price": 22605
+  },
+  {
+    "id": 146,
+    "name": "Капы отбеливающие Сила Кислорода Supreme White Trays O3X, BlanX",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f5f/142_180_175511db9cefbc414a902a46f1b8fae16/9805600_01s_min.jpg",
+    "price": 36826
+  },
+  {
+    "id": 147,
+    "name": "Зубная паста отбеливающаяProfessional Toothpaste O3X, BlanX, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ccb/142_180_175511db9cefbc414a902a46f1b8fae16/9805891_01s_min.jpg",
+    "price": 5425
+  },
+  {
+    "id": 148,
+    "name": "Зубная паста Вайт Кокос Coco White, BlanX, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ca5/142_180_175511db9cefbc414a902a46f1b8fae16/9801540_01s_min.jpg",
+    "price": 5097
+  },
+  {
+    "id": 149,
+    "name": "Интенсивно увлажняющий крем \"Hydro active 30 h\" пролонгированного действия SPF 15, Beauty Style, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e13/142_180_175511db9cefbc414a902a46f1b8fae16/4516089s_Intensiv_uvlazh_krem_30ml_min.jpg",
+    "price": 8212
+  },
+  {
+    "id": 150,
+    "name": "Мульти-крем с пептидами и антиоксидантным комплексом для лица Multi-Action Peptide Cream, ARAVIA Professional, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/807/142_180_175511db9cefbc414a902a46f1b8fae16/6615069_01s_min.jpg",
+    "price": 8039
+  },
+  {
+    "id": 151,
+    "name": "Крем-корректор для кожи лица, склонной к покраснениям Redness Corrector Cream, ARAVIA Professional, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ec1/142_180_175511db9cefbc414a902a46f1b8fae16/6615038_01s_min.jpg",
+    "price": 6239
+  },
+  {
+    "id": 152,
+    "name": "Маска омолаживающая с комплексом минеральных грязей Anti-Aging Mud Mask, ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/245/142_180_175511db9cefbc414a902a46f1b8fae16/6615083_01s_min.jpg",
+    "price": 6338
+  },
+  {
+    "id": 153,
+    "name": "Маска восстанавливающая с пребиотиками Pre-Bio Mask, ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b2b/142_180_175511db9cefbc414a902a46f1b8fae16/6615076_01s_min.jpg",
+    "price": 6716
+  },
+  {
+    "id": 154,
+    "name": "Крем лифт с аминокислотами и полисахаридами 3D Anti-Wrinkle Lifting Cream, ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/939/142_180_175511db9cefbc414a902a46f1b8fae16/6615052_01s_min.jpg",
+    "price": 9363
+  },
+  {
+    "id": 155,
+    "name": "Карбоновый пилинг-комплекс Carbon Peel Program, ARAVIA Professional, 1 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a95/142_180_175511db9cefbc414a902a46f1b8fae16/6615755_01s_min.jpg",
+    "price": 31196
+  },
+  {
+    "id": 156,
+    "name": "Маска альгинатная с чайным деревом и миоксинолом Myo-Lifting, ARAVIA Professional, 550 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/677/142_180_175511db9cefbc414a902a46f1b8fae16/6613652_01s_min.jpg",
+    "price": 11253
+  },
+  {
+    "id": 157,
+    "name": "Маска альгинатная с экстрактом черной икры Black Caviar-Lifting, ARAVIA Professional, 550 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/24c/142_180_175511db9cefbc414a902a46f1b8fae16/6613645_01s_min.jpg",
+    "price": 11253
+  },
+  {
+    "id": 158,
+    "name": "Маска альгинатная с аргирелином Amyno-Lifting, ARAVIA Professional, 550 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/90b/142_180_175511db9cefbc414a902a46f1b8fae16/6613638_01s_min.jpg",
+    "price": 11253
+  },
+  {
+    "id": 159,
+    "name": "Очищающая маска с активированным углём Purifying Detox Mask, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/356/142_180_175511db9cefbc414a902a46f1b8fae16/6613157_01s_min.jpg",
+    "price": 5483
+  },
+  {
+    "id": 160,
+    "name": " Сыворотка с антиоксидантами Antioxidant-Serum, ARAVIA Professional, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e8d/142_180_175511db9cefbc414a902a46f1b8fae16/6615168_01s_min.jpg",
+    "price": 10875
+  },
+  {
+    "id": 161,
+    "name": "Маска лифтинговая с муцином улитки Snail-Lifting Mask, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/747/142_180_175511db9cefbc414a902a46f1b8fae16/6614994_01s_min.jpg",
+    "price": 7373
+  },
+  {
+    "id": 162,
+    "name": "Пилинг-гель \"ANY-Time Control\", ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/004/142_180_175511db9cefbc414a902a46f1b8fae16/6614475_01s_min.jpg",
+    "price": 13144
+  },
+  {
+    "id": 163,
+    "name": "Набор для лица \"Антивозрастной уход\", ARAVIA Professional, 1 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/db0/142_180_175511db9cefbc414a902a46f1b8fae16/6614307_01s_min.jpg",
+    "price": 18438
+  },
+  {
+    "id": 164,
+    "name": "Набор для лица \"Здоровое сияние\", ARAVIA Professional, 1 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a3d/142_180_175511db9cefbc414a902a46f1b8fae16/6614314_01s_min.jpg",
+    "price": 18438
+  },
+  {
+    "id": 165,
+    "name": "Набор для лица \"Идеальное увлажнение\", ARAVIA Professional, 1 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/69f/142_180_175511db9cefbc414a902a46f1b8fae16/6614291_01s_min.jpg",
+    "price": 18438
+  },
+  {
+    "id": 166,
+    "name": "Набор косметический \"Бархатный уход\", ARAVIA Professional, 1 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e09/142_180_175511db9cefbc414a902a46f1b8fae16/6614772_01s_min.jpg",
+    "price": 8417
+  },
+  {
+    "id": 167,
+    "name": "Минеральная эмульсия с экстрактом зеленого яблока и гамамелиса Restoring Emulsion, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9b3/142_180_175511db9cefbc414a902a46f1b8fae16/6615243_01s_min.jpg",
+    "price": 5105
+  },
+  {
+    "id": 168,
+    "name": "Мягкий очищающий крем Gentle Cold-Cream, ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c11/142_180_175511db9cefbc414a902a46f1b8fae16/6613294_01s_min.jpg",
+    "price": 6806
+  },
+  {
+    "id": 169,
+    "name": "Набор капсул для лица, miShipy, 40 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b41/142_180_175511db9cefbc414a902a46f1b8fae16/9843729_01s_min.jpg",
+    "price": 12248
+  },
+  {
+    "id": 170,
+    "name": "Капсулы CC gold F20 (лечебный тональный крем золото), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/16b/142_180_175511db9cefbc414a902a46f1b8fae16/9843736_01s_min.jpg",
+    "price": 10275
+  },
+  {
+    "id": 171,
+    "name": "Капсулы для лица care BB F10 (ВВ тональный крем), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b0e/142_180_175511db9cefbc414a902a46f1b8fae16/9843699_01s_min.jpg",
+    "price": 10275
+  },
+  {
+    "id": 172,
+    "name": "Капсулы для лица care gelaloe F12 (гиалуроновая кислота), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1d5/142_180_175511db9cefbc414a902a46f1b8fae16/9843682_1s_min.jpg",
+    "price": 9782
+  },
+  {
+    "id": 173,
+    "name": "Капсулы для лица care snail F13(муцин улитки), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e78/142_180_175511db9cefbc414a902a46f1b8fae16/9843675_01s_min.jpg",
+    "price": 11262
+  },
+  {
+    "id": 174,
+    "name": "Капсулы для лица care acmella F12 (акмелла), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/276/142_180_175511db9cefbc414a902a46f1b8fae16/9843651_01s_min.jpg",
+    "price": 11179
+  },
+  {
+    "id": 175,
+    "name": "Капсулы для лица care zinc F12 (цинк), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9ed/142_180_175511db9cefbc414a902a46f1b8fae16/9843644_01s_min.jpg",
+    "price": 10440
+  },
+  {
+    "id": 176,
+    "name": "Капсулы для лица care black pearl F15 (черный жемчуг), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/457/142_180_175511db9cefbc414a902a46f1b8fae16/9843637_01s_min.jpg",
+    "price": 10275
+  },
+  {
+    "id": 177,
+    "name": "Капсулы для лица care rose F12 (роза), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9a6/142_180_175511db9cefbc414a902a46f1b8fae16/9843620_01s_min.jpg",
+    "price": 11344
+  },
+  {
+    "id": 178,
+    "name": "Капсулы для лица care silk F10 (шелк), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/183/142_180_175511db9cefbc414a902a46f1b8fae16/9843613_01s_min.jpg",
+    "price": 12166
+  },
+  {
+    "id": 179,
+    "name": "Капсулы для лица care oil F12 (масло), miShipy, 30 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e85/142_180_175511db9cefbc414a902a46f1b8fae16/9843606_01s_min.jpg",
+    "price": 10522
+  },
+  {
+    "id": 180,
+    "name": "Зубная паста Глянцевый эффект Pro Glossy Pink, Blanx",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b5e/142_180_175511db9cefbc414a902a46f1b8fae16/9807087_01s_min.jpg",
+    "price": 2918
+  },
+  {
+    "id": 181,
+    "name": "Зубная паста Экстремальная свежесть Pro Deep Blue, Blanx",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/828/142_180_175511db9cefbc414a902a46f1b8fae16/9807070_01s_min.jpg",
+    "price": 2918
+  },
+  {
+    "id": 182,
+    "name": "Зубная паста Чистый белый Pro Pure White, Blanx",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2b5/142_180_175511db9cefbc414a902a46f1b8fae16/9807063_01s_min.jpg",
+    "price": 2918
+  },
+  {
+    "id": 183,
+    "name": "Зубная паста с углем Black Charcoal, Blanx, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/6fc/142_180_175511db9cefbc414a902a46f1b8fae16/9803386_01s_min.jpg",
+    "price": 5097
+  },
+  {
+    "id": 184,
+    "name": "Зубная паста активная защита Med Active Enamel Protection, Blanx, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9ba/142_180_175511db9cefbc414a902a46f1b8fae16/9800388_01s_min.jpg",
+    "price": 8138
+  },
+  {
+    "id": 185,
+    "name": "Ополаскиватель White Shock mouthwash, Blanx, 500 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1ea/142_180_175511db9cefbc414a902a46f1b8fae16/9804612_01s_min.jpg",
+    "price": 9905
+  },
+  {
+    "id": 186,
+    "name": "Отбеливающий комплекс для зубов White Shock Protect + LED, Blanx, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/38c/142_180_175511db9cefbc414a902a46f1b8fae16/9809731_01s_min.jpg",
+    "price": 9330
+  },
+  {
+    "id": 187,
+    "name": "Зубная паста в тубе интенсивно отбеливающая ExtraWhite, Blanx, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1ab/142_180_175511db9cefbc414a902a46f1b8fae16/9807902_01s_min.jpg",
+    "price": 8960
+  },
+  {
+    "id": 188,
+    "name": "Отбеливающий уход + световой активатор White Shock Treatment + Led Bite, Blanx, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d93/142_180_175511db9cefbc414a902a46f1b8fae16/9805427_01s_min.jpg",
+    "price": 15865
+  },
+  {
+    "id": 189,
+    "name": "Зубная паста интенсивное удаление пятен Intensive Stain Removal, Blanx, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/458/142_180_175511db9cefbc414a902a46f1b8fae16/9804763_01s_min.jpg",
+    "price": 6330
+  },
+  {
+    "id": 190,
+    "name": "Зубная паста отбеливающая Advanced Whitening, Blanx, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/22c/142_180_175511db9cefbc414a902a46f1b8fae16/9806706_01s_min.jpg",
+    "price": 6330
+  },
+  {
+    "id": 191,
+    "name": "Отбеливающий карандаш White Shock Glam Smile Gel Pen, BlanX, 12 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7b5/142_180_175511db9cefbc414a902a46f1b8fae16/9804710_01s_min.jpg",
+    "price": 14468
+  },
+  {
+    "id": 192,
+    "name": "Зубная паста мгновенного отбеливания White Shock Instant White, Blanx, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/178/142_180_175511db9cefbc414a902a46f1b8fae16/9801573_01s_min.jpg",
+    "price": 5014
+  },
+  {
+    "id": 193,
+    "name": "Ополаскиватель для полости рта Уход за деснами Delicate Gums Mouthwash, Biorepair, 500 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2c0/142_180_175511db9cefbc414a902a46f1b8fae16/9800735_01s_min.jpg",
+    "price": 9248
+  },
+  {
+    "id": 194,
+    "name": "Ополаскиватель для полости рта Антибактериальный Plus Antibacterial Mouthwash, Biorepair, 1 л",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f5e/142_180_175511db9cefbc414a902a46f1b8fae16/9806721_01s_min.jpg",
+    "price": 16194
+  },
+  {
+    "id": 195,
+    "name": "Зубная паста для защиты дёсен Protezione Gengive Gum Protection, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/cf0/142_180_175511db9cefbc414a902a46f1b8fae16/9804192_01s_min.jpg",
+    "price": 6412
+  },
+  {
+    "id": 196,
+    "name": "Зубная паста Плюс Про Вайт Pro White Plus, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f74/142_180_175511db9cefbc414a902a46f1b8fae16/9805380_01s_min.jpg",
+    "price": 7275
+  },
+  {
+    "id": 197,
+    "name": "Зубная паста Biorepair Pro Scudo Attivo проактивная защита, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e4d/142_180_175511db9cefbc414a902a46f1b8fae16/9804078_01s_min.jpg",
+    "price": 6617
+  },
+  {
+    "id": 198,
+    "name": "Зубная паста комплексная защита Total Protective Repair, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0a3/142_180_175511db9cefbc414a902a46f1b8fae16/9806622_01s_min.jpg",
+    "price": 6412
+  },
+  {
+    "id": 199,
+    "name": "Зубная паста для чувствительных зубов Fast Sensitive Repair, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a1c/142_180_175511db9cefbc414a902a46f1b8fae16/9806608_01s_min.jpg",
+    "price": 6412
+  },
+  {
+    "id": 200,
+    "name": "Зубная паста детская Kids, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/dea/142_180_175511db9cefbc414a902a46f1b8fae16/9805634_01s_min.jpg",
+    "price": 3781
+  },
+  {
+    "id": 201,
+    "name": "Зубная паста детская Junior, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/52b/142_180_175511db9cefbc414a902a46f1b8fae16/9804504_01s_min.jpg",
+    "price": 4521
+  },
+  {
+    "id": 202,
+    "name": "Зубная паста Про Вайт Pro White, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/018/142_180_175511db9cefbc414a902a46f1b8fae16/9805610_01s_min.jpg",
+    "price": 6412
+  },
+  {
+    "id": 203,
+    "name": "Препарат для снижения чувствительности зубов Desensitizing Enamel Repairer Treatment, Biorepair, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/95e/142_180_175511db9cefbc414a902a46f1b8fae16/9809571_01s_min.jpg",
+    "price": 11426
+  },
+  {
+    "id": 204,
+    "name": "Ополаскиватель для полости рта в стиках Mouthwash, Biorepair, 12шт*12мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ced/142_180_175511db9cefbc414a902a46f1b8fae16/9808260_01s_min.jpg",
+    "price": 6782
+  },
+  {
+    "id": 205,
+    "name": "Зубная паста - Ночное восстановление Intensivo Notte , Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/65d/142_180_175511db9cefbc414a902a46f1b8fae16/9804092_01s_min.jpg",
+    "price": 6617
+  },
+  {
+    "id": 206,
+    "name": "Зубная паста для чувствительных зубов Plus Sensitive Teeth, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c21/142_180_175511db9cefbc414a902a46f1b8fae16/9802648_01s_min.jpg",
+    "price": 7275
+  },
+  {
+    "id": 207,
+    "name": "Зубная паста комплексная защита плюс Plus Total Protection, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/44e/142_180_175511db9cefbc414a902a46f1b8fae16/9802624_01s_min.jpg",
+    "price": 7275
+  },
+  {
+    "id": 208,
+    "name": "Ополаскиватель для полости рта Mouthwash Antibacterial, Biorepair, 500 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ea2/142_180_175511db9cefbc414a902a46f1b8fae16/9805925_01s_min.jpg",
+    "price": 9248
+  },
+  {
+    "id": 209,
+    "name": "Набор Picture Perfect Set: LUNA 3 + Сыворотка для лица 30 мл, Foreo",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a0d/142_180_175511db9cefbc414a902a46f1b8fae16/1920684_1s_min.jpg",
+    "price": 147881
+  },
+  {
+    "id": 210,
+    "name": "Крем себорегулирующий для жирной кожи, GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/99a/142_180_175511db9cefbc414a902a46f1b8fae16/6761083_01s_min.jpg",
+    "price": 18643
+  },
+  {
+    "id": 211,
+    "name": "Крем себорегулирующий для жирной кожи, GUAM, 50мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/339/142_180_175511db9cefbc414a902a46f1b8fae16/6761144_01s_min.jpg",
+    "price": 18643
+  },
+  {
+    "id": 212,
+    "name": "Лифтинг-сыворотка для лица и шеи, GUAM, 30мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d0c/142_180_175511db9cefbc414a902a46f1b8fae16/6761052_01s_min.jpg",
+    "price": 18643
+  },
+  {
+    "id": 213,
+    "name": "Крем питательный омолаживающий, GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/8d9/142_180_175511db9cefbc414a902a46f1b8fae16/6761113_01s_min.jpg",
+    "price": 23575
+  },
+  {
+    "id": 214,
+    "name": "Крем для лица подтягивающий (моделирующий овал лица), GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b68/142_180_175511db9cefbc414a902a46f1b8fae16/6761182_01s_min.jpg",
+    "price": 22589
+  },
+  {
+    "id": 215,
+    "name": "Крем увлажняющий, GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e30/142_180_175511db9cefbc414a902a46f1b8fae16/6761137_01s_min.jpg",
+    "price": 16868
+  },
+  {
+    "id": 216,
+    "name": "Тоник для нормальной кожи, GUAM, 200 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b2a/142_180_175511db9cefbc414a902a46f1b8fae16/6761076_01s_min.jpg",
+    "price": 8779
+  },
+  {
+    "id": 217,
+    "name": "Тоник для жирной кожи, GUAM, 200 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7da/142_180_175511db9cefbc414a902a46f1b8fae16/6761083_01s_min.jpg",
+    "price": 8779
+  },
+  {
+    "id": 218,
+    "name": "Очищающий гель для жирной и комбинированной кожи, GUAM, 200 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f77/142_180_175511db9cefbc414a902a46f1b8fae16/6761106_01s_min.jpg",
+    "price": 8779
+  },
+  {
+    "id": 219,
+    "name": "Крем-лифтинг для лица интенсивный с фитостволовыми клетками, GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f81/142_180_175511db9cefbc414a902a46f1b8fae16/6760970_01s_min.jpg",
+    "price": 52182
+  },
+  {
+    "id": 220,
+    "name": "Крем ночной для лица интенсивный с фитостволовыми клетками, GUAM, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1c7/142_180_175511db9cefbc414a902a46f1b8fae16/6760987_01s_min.jpg",
+    "price": 38372
+  },
+  {
+    "id": 221,
+    "name": "Маска для лица \"V-UP mask\", Lamucha",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b66/142_180_175511db9cefbc414a902a46f1b8fae16/6749919_02s_min.jpg",
+    "price": 27127
+  },
+  {
+    "id": 222,
+    "name": "Гель для умывания с активированным углём Detox Carbon Cleanser, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f72/142_180_175511db9cefbc414a902a46f1b8fae16/6614949_1s_min.jpg",
+    "price": 5581
+  },
+  {
+    "id": 223,
+    "name": "Очищающий гель для умывания Soft Clean Gel, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f81/142_180_175511db9cefbc414a902a46f1b8fae16/6614895_1s_min.jpg",
+    "price": 5483
+  },
+  {
+    "id": 224,
+    "name": "Пенка для умывания с муцином улитки и зелёным чаем Snail Foam, ARAVIA Professional, 160 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a3c/142_180_175511db9cefbc414a902a46f1b8fae16/6614840_1s_min.jpg",
+    "price": 5483
+  },
+  {
+    "id": 225,
+    "name": "Крем для лица активное увлажнение, ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/79d/142_180_175511db9cefbc414a902a46f1b8fae16/6614826_2_min.jpg",
+    "price": 10399
+  },
+  {
+    "id": 226,
+    "name": "Спрей увлажняющий с гиалуроновой кислотой Aqua Comfort Mist, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/557/142_180_175511db9cefbc414a902a46f1b8fae16/6614888_1s_min.jpg",
+    "price": 3691
+  },
+  {
+    "id": 227,
+    "name": "Тонер с салициловой кислотой Sebum Free Toner, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c1c/142_180_175511db9cefbc414a902a46f1b8fae16/6614871_1s_min.jpg",
+    "price": 3691
+  },
+  {
+    "id": 228,
+    "name": "Тонер омолаживающий с ниацинамидом Anti-Age Toner, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ae3/142_180_175511db9cefbc414a902a46f1b8fae16/6614833_1s_min.jpg",
+    "price": 3691
+  },
+  {
+    "id": 229,
+    "name": "Крем для умывания с маслом хлопка Cleansing Cream Foam, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/947/142_180_175511db9cefbc414a902a46f1b8fae16/6614956_1s_min.jpg",
+    "price": 5483
+  },
+  {
+    "id": 230,
+    "name": "Лифтинг-тонер цветочный Flower Lifting Toner, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/3b7/142_180_175511db9cefbc414a902a46f1b8fae16/6614857_1s_min.jpg",
+    "price": 3691
+  },
+  {
+    "id": 231,
+    "name": "Маска альгинатная моделирующая с жемчужной пудрой и морскими минералами Pearl Bright Mask, ARAVIA Professional, 550 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d7b/142_180_175511db9cefbc414a902a46f1b8fae16/6614567_1s_min.jpg",
+    "price": 10875
+  },
+  {
+    "id": 232,
+    "name": "Маска альгинатная детокс-ая Enzyme-Vita Mask с энзимами папайи и пептидами, ARAVIA Professional, 550 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/46c/142_180_175511db9cefbc414a902a46f1b8fae16/6614550_1s_min.jpg",
+    "price": 9174
+  },
+  {
+    "id": 233,
+    "name": "Маска альгинатная лифтинговая Red-Wine Lifting с экстрактом красного вина, ARAVIA Professional, 550 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/585/142_180_175511db9cefbc414a902a46f1b8fae16/6614543_1s_min.jpg",
+    "price": 9174
+  },
+  {
+    "id": 234,
+    "name": "Энзимный пилинг Papaya Enzyme Peel, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/011/142_180_175511db9cefbc414a902a46f1b8fae16/6613300_1s_min.jpg",
+    "price": 6527
+  },
+  {
+    "id": 235,
+    "name": "Себорегулирующая маска Essential Mask, ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9fb/142_180_175511db9cefbc414a902a46f1b8fae16/6613126_1s_min.jpg",
+    "price": 8417
+  },
+  {
+    "id": 236,
+    "name": "Регенерирующий пилинг с азелаиновой кислотой Regenerating Azelaic, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/6b8/142_180_175511db9cefbc414a902a46f1b8fae16/6614352_1s_min.jpg",
+    "price": 7472
+  },
+  {
+    "id": 237,
+    "name": "Пилинг с молочной кислотой Lactica Exfoliate, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/cd7/142_180_175511db9cefbc414a902a46f1b8fae16/6613317_1s_min.jpg",
+    "price": 6527
+  },
+  {
+    "id": 238,
+    "name": "Крем для массажа Modelage Active Cream, ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e49/142_180_175511db9cefbc414a902a46f1b8fae16/6613164_1s_min.jpg",
+    "price": 7472
+  },
+  {
+    "id": 239,
+    "name": "Набор карбокситерапии CO2 Anti-Age Set для сухой и зрелой кожи лица, ARAVIA Professional",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/240/142_180_175511db9cefbc414a902a46f1b8fae16/6614154_1s_min.jpg",
+    "price": 22688
+  },
+  {
+    "id": 240,
+    "name": "Энзимная пудра для умывания Enzyme Wash Powder, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ae0/142_180_175511db9cefbc414a902a46f1b8fae16/6614130_1s_min.jpg",
+    "price": 7472
+  },
+  {
+    "id": 241,
+    "name": "Солнцезащитный увлажняющий флюид (для тела и лица) Sun Shade SPF-40, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e6c/142_180_175511db9cefbc414a902a46f1b8fae16/6614444_1s_min.jpg",
+    "price": 12199
+  },
+  {
+    "id": 242,
+    "name": "Солнцезащитный увлажняющий флюид (для лица) Sun Shade SPF-30, ARAVIA Professional, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1a9/142_180_175511db9cefbc414a902a46f1b8fae16/6614437_1s_min.jpg",
+    "price": 10308
+  },
+  {
+    "id": 243,
+    "name": "Маска-уход для проблемной и жирной кожи Anti-Acne Intensive, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/647/142_180_175511db9cefbc414a902a46f1b8fae16/6614468_1s_min.jpg",
+    "price": 4636
+  },
+  {
+    "id": 244,
+    "name": "Лосьон для глубокого очищения пор Pore-Clean Lotion, ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/961/142_180_175511db9cefbc414a902a46f1b8fae16/6614604_1s_min.jpg",
+    "price": 6149
+  },
+  {
+    "id": 245,
+    "name": "Сплэш-сыворотка для лица лифтинг-эффект, ARAVIA Professional, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/932/142_180_175511db9cefbc414a902a46f1b8fae16/6614710_1s_min.jpg",
+    "price": 8417
+  },
+  {
+    "id": 246,
+    "name": "Сплэш-сыворотка для лица бото-эффект, ARAVIA Professional, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/837/142_180_175511db9cefbc414a902a46f1b8fae16/6614703_1s_min.jpg",
+    "price": 10875
+  },
+  {
+    "id": 247,
+    "name": "Крем для лица интенсивно увлажняющий с мочевиной, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/886/142_180_175511db9cefbc414a902a46f1b8fae16/6614758_1s_min.jpg",
+    "price": 4636
+  },
+  {
+    "id": 248,
+    "name": "Тоник для очищения и увлажнения кожи с мятой и ромашкой, ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/39c/142_180_175511db9cefbc414a902a46f1b8fae16/6611252_1s_min.jpg",
+    "price": 3502
+  },
+  {
+    "id": 249,
+    "name": "Маска, активированная UFO, Call It the Night Foreo, 7 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/05f/142_180_175511db9cefbc414a902a46f1b8fae16/foreo_call_it_a_night_142.jpg",
+    "price": 11426
+  },
+  {
+    "id": 250,
+    "name": "Увлажняющий флюид Hydratant Fluid Cream, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/dd1/142_180_175511db9cefbc414a902a46f1b8fae16/6613379s.jpg",
+    "price": 8417
+  },
+  {
+    "id": 251,
+    "name": "Тоник с фруктовыми кислотами AHA - Glycolic Tonic ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/210/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0024_6613249.jpg",
+    "price": 6527
+  },
+  {
+    "id": 252,
+    "name": "Тоник интенсивное увлажнение Hydra Perfect ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/163/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0023_6613256.jpg",
+    "price": 7472
+  },
+  {
+    "id": 253,
+    "name": "Тоник для жирной проблемной кожи Anti-Acne Tonic ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d7a/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0025_6613232.jpg",
+    "price": 6527
+  },
+  {
+    "id": 254,
+    "name": "Тоник детоксицирующий Detox Sensitive ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c2d/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0022_6613263.jpg",
+    "price": 5960
+  },
+  {
+    "id": 255,
+    "name": "Мультиактивная сыворотка с ретинолом Multi - Action Serum, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/084/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0019_6613331.jpg",
+    "price": 10859
+  },
+  {
+    "id": 256,
+    "name": "Маска успокаивающая после чистки Soothing Mask ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f91/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0029_6613185.jpg",
+    "price": 9363
+  },
+  {
+    "id": 257,
+    "name": "Крем-сыворотка для проблемной кожи Anti-Acne Serum, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/44b/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0017_6613362.jpg",
+    "price": 10308
+  },
+  {
+    "id": 258,
+    "name": "Крем-пенка очищающая Vita-C Foaming, ARAVIA Professional, 160 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/31e/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0027_6613218.jpg",
+    "price": 5187
+  },
+  {
+    "id": 259,
+    "name": "Крем-маска омолаживающая для шеи декольте Anti-Age Mask ARAVIA Professional, 300 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d4e/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0031_6613119.jpg",
+    "price": 8968
+  },
+  {
+    "id": 260,
+    "name": "Крем увлажняющий защитный Moisture Protecor Cream, ARAVIA Professional, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/113/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0016_6613386.jpg",
+    "price": 8968
+  },
+  {
+    "id": 261,
+    "name": "Гель очищающий с фруктовыми кислотами AHA - Fruit Gel ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/4e0/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0026_6613225.jpg",
+    "price": 6527
+  },
+  {
+    "id": 262,
+    "name": "Гель для интенсивного ухода Intensive Action Gel ARAVIA Professional, 250 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/bdf/142_180_175511db9cefbc414a902a46f1b8fae16/aravia_0021_6613287.jpg",
+    "price": 6527
+  },
+  {
+    "id": 263,
+    "name": "Термальная вода, Librederm, 125 гр",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/318/142_180_175511db9cefbc414a902a46f1b8fae16/F_0011_6613219.jpg",
+    "price": 2540
+  },
+  {
+    "id": 264,
+    "name": "Лифтинг-сыворотка  Anti-Age Стволовые клетки винограда, Librederm, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2c5/142_180_175511db9cefbc414a902a46f1b8fae16/F_0007_6613561.jpg",
+    "price": 5672
+  },
+  {
+    "id": 265,
+    "name": "Крем-эксперт Anti-Age Стволовые клетки винограда, 50 мл Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/b69/142_180_175511db9cefbc414a902a46f1b8fae16/F_0008_6613448.jpg",
+    "price": 5993
+  },
+  {
+    "id": 266,
+    "name": "Желе для умывания Anti-Age Стволовые клетки винограда, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a88/142_180_175511db9cefbc414a902a46f1b8fae16/F_0004_6614582.jpg",
+    "price": 4759
+  },
+  {
+    "id": 267,
+    "name": "Себорегулирующая маска с белой и зеленой глиной Серацин, Librederm, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ea8/142_180_175511db9cefbc414a902a46f1b8fae16/F_0012_6615299.jpg",
+    "price": 4028
+  },
+  {
+    "id": 268,
+    "name": "Очищающий гель для умывания Серацин, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/5f0/142_180_175511db9cefbc414a902a46f1b8fae16/F_0003_6615275.jpg",
+    "price": 3206
+  },
+  {
+    "id": 269,
+    "name": "Очищающий крем-скраб с эко-гранулами Серацин, Librederm, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/bda/142_180_175511db9cefbc414a902a46f1b8fae16/F_0002_6615282.jpg",
+    "price": 3115
+  },
+  {
+    "id": 270,
+    "name": "Матирующий тоник Серацин, Librederm, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/db0/142_180_175511db9cefbc414a902a46f1b8fae16/F_0011_6615305.jpg",
+    "price": 4513
+  },
+  {
+    "id": 271,
+    "name": "Матирующий дневной крем Серацин, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0fc/142_180_175511db9cefbc414a902a46f1b8fae16/F_0010_6615381.jpg",
+    "price": 3206
+  },
+  {
+    "id": 272,
+    "name": "Альгинатная себорегулирующая маска для проблемной кожи Серацин, Librederm, 5 по 30 гр",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/fe9/142_180_175511db9cefbc414a902a46f1b8fae16/F_0008_6615718.jpg",
+    "price": 4850
+  },
+  {
+    "id": 273,
+    "name": "Пилинг-скатка с ромашкой для лица, Librederm, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/203/142_180_175511db9cefbc414a902a46f1b8fae16/F_0006_6613776.jpg",
+    "price": 3526
+  },
+  {
+    "id": 274,
+    "name": "Омолаживающая альгинатная маска Коллаген, Librederm, 5 по 30 гр",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f99/142_180_175511db9cefbc414a902a46f1b8fae16/F_0002_6614780.jpg",
+    "price": 4850
+  },
+  {
+    "id": 275,
+    "name": "Ночной крем для уменьшения морщин и восстановления упругости Коллаген, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/688/142_180_175511db9cefbc414a902a46f1b8fae16/6615800s.jpg",
+    "price": 7234
+  },
+  {
+    "id": 276,
+    "name": "Лифтинг-сыворотка Моментальный эффект Коллаген, Librederm, 40 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/234/142_180_175511db9cefbc414a902a46f1b8fae16/F_0002_6616265.jpg",
+    "price": 6494
+  },
+  {
+    "id": 277,
+    "name": "Дневной крем для восстановления сияния и ровного цвета кожи SPF - 15 Коллаген, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c2c/142_180_175511db9cefbc414a902a46f1b8fae16/6615794s.jpg",
+    "price": 10604
+  },
+  {
+    "id": 278,
+    "name": "Крем увлажняющий для лица, шеи и области декольте Гиалуроновый, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/539/142_180_175511db9cefbc414a902a46f1b8fae16/6612526s.jpg",
+    "price": 6494
+  },
+  {
+    "id": 279,
+    "name": "Крем ночной гидробаланс Гиалуроновый, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d9d/142_180_175511db9cefbc414a902a46f1b8fae16/6615879s.jpg",
+    "price": 5910
+  },
+  {
+    "id": 280,
+    "name": "Набор подарочный: шампунь, крем-бальзам, гель Гиалуроновая коллекция, Librederm",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7fb/142_180_175511db9cefbc414a902a46f1b8fae16/6616036s.jpg",
+    "price": 9782
+  },
+  {
+    "id": 281,
+    "name": "Патч-филлер с микроиглами гиалуроновой кислоты № 2 Гиалуроновая, Librederm, 2шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7ac/142_180_175511db9cefbc414a902a46f1b8fae16/6614506s.jpg",
+    "price": 15536
+  },
+  {
+    "id": 282,
+    "name": "3D филлер преображающий крем - BLUR Гиалуроновая, Librederm, 15 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/1b7/142_180_175511db9cefbc414a902a46f1b8fae16/6615961s.jpg",
+    "price": 6494
+  },
+  {
+    "id": 283,
+    "name": "3D филлер ночной крем для лица Гиалуроновая, Librederm, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/c98/142_180_175511db9cefbc414a902a46f1b8fae16/6614902s.jpg",
+    "price": 9782
+  },
+  {
+    "id": 284,
+    "name": "3D филлер дневной крем для лица SPF 15 Гиалуроновая, Librederm, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ae8/142_180_175511db9cefbc414a902a46f1b8fae16/6614919s.jpg",
+    "price": 9782
+  },
+  {
+    "id": 285,
+    "name": "Ультраувлажняющая альгинатная маска № 5 Гиалуроновая, Librederm, по 30 г",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/232/142_180_175511db9cefbc414a902a46f1b8fae16/6614803s.jpg",
+    "price": 4850
+  },
+  {
+    "id": 286,
+    "name": "Пенка для умывания Гиалуроновая, Librederm, 160 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/658/142_180_175511db9cefbc414a902a46f1b8fae16/6612656s.jpg",
+    "price": 4028
+  },
+  {
+    "id": 287,
+    "name": "Маска Каскадное увлажнение Гиалуроновая, Librederm, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/3f6/142_180_175511db9cefbc414a902a46f1b8fae16/6615053s.jpg",
+    "price": 5672
+  },
+  {
+    "id": 288,
+    "name": "Вода гиалуроновая Librederm, 100 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/854/142_180_175511db9cefbc414a902a46f1b8fae16/6612779s.jpg",
+    "price": 2869
+  },
+  {
+    "id": 289,
+    "name": "Молочко для снятия макияжа Витамин F, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/e93/142_180_175511db9cefbc414a902a46f1b8fae16/6615770s.jpg",
+    "price": 3206
+  },
+  {
+    "id": 290,
+    "name": "Нежный крем-гель для умывания Витамин Е, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/f98/142_180_175511db9cefbc414a902a46f1b8fae16/6615671s.jpg",
+    "price": 2384
+  },
+  {
+    "id": 291,
+    "name": "Маска-антиоксидант увлажняющая Витамин Е, Librederm, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d42/142_180_175511db9cefbc414a902a46f1b8fae16/6615756s.jpg",
+    "price": 2540
+  },
+  {
+    "id": 292,
+    "name": "Крем-антиоксидант для лица Витамин Е, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/954/142_180_175511db9cefbc414a902a46f1b8fae16/6612953s.jpg",
+    "price": 2458
+  },
+  {
+    "id": 293,
+    "name": "Маска для лица питательная АЕвит, Librederm, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a34/142_180_175511db9cefbc414a902a46f1b8fae16/6615855s.jpg",
+    "price": 2540
+  },
+  {
+    "id": 294,
+    "name": "Набор подарочный АЕвит, Librederm",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a82/142_180_175511db9cefbc414a902a46f1b8fae16/6616142_s.jpg",
+    "price": 7316
+  },
+  {
+    "id": 295,
+    "name": "Крем для лица АЕвит, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0f7/142_180_175511db9cefbc414a902a46f1b8fae16/6612960_s.jpg",
+    "price": 2869
+  },
+  {
+    "id": 296,
+    "name": "Мицеллярная вода для снятия макияжа Miceclean, Librederm",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/201/142_180_175511db9cefbc414a902a46f1b8fae16/6614643_6614650_s.jpg",
+    "price": 2458
+  },
+  {
+    "id": 297,
+    "name": "Крем восстанавливающий Regenerant, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/caf/142_180_175511db9cefbc414a902a46f1b8fae16/6614346_s.jpg",
+    "price": 8138
+  },
+  {
+    "id": 298,
+    "name": "Крем укрепляющий для тонкой кожи вокруг глаз Dermatology, Librederm, 15 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/68f/142_180_175511db9cefbc414a902a46f1b8fae16/6616425_s.jpg",
+    "price": 6979
+  },
+  {
+    "id": 299,
+    "name": "Сыворотка интенсивная антивозрастная для лица Dermatology Витамин С, Librederm, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/ef3/142_180_175511db9cefbc414a902a46f1b8fae16/6615992_s.jpg",
+    "price": 6650
+  },
+  {
+    "id": 300,
+    "name": "Эмульсия дневная anti-pollution для лица spf 15 Dermatology Q 10 + Hst, Librederm, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/7f9/142_180_175511db9cefbc414a902a46f1b8fae16/6616166_s.jpg",
+    "price": 6897
+  },
+  {
+    "id": 301,
+    "name": "Крем ночной восстанавливающий anti-pollution для лица Dermatology Q 10 + Hst, Librederm, 30 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2ca/142_180_175511db9cefbc414a902a46f1b8fae16/6616159_s.jpg",
+    "price": 6494
+  },
+  {
+    "id": 302,
+    "name": "Сыворотка-концентрат отбеливающая от пигментных пятен Dermatology BRG+Витамин В3, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/3d0/142_180_175511db9cefbc414a902a46f1b8fae16/6616012_s.jpg",
+    "price": 7308
+  },
+  {
+    "id": 303,
+    "name": "Солнцезащитный крем SPF 15 с Омега 3-6-9 и термальной водой Bronzeada, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/817/142_180_175511db9cefbc414a902a46f1b8fae16/6612427_s.jpg",
+    "price": 7308
+  },
+  {
+    "id": 304,
+    "name": "Солнцезащитный крем SPF 30 с Омега 3-6-9 и термальной водой Bronzeada, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/640/142_180_175511db9cefbc414a902a46f1b8fae16/6612434.jpg",
+    "price": 8130
+  },
+  {
+    "id": 305,
+    "name": "Салфетка-автозагар № 4 Bronzeada, Librederm",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/8aa/142_180_175511db9cefbc414a902a46f1b8fae16/6615565.jpg",
+    "price": 3526
+  },
+  {
+    "id": 306,
+    "name": "Салфетка-автозагар № 2 Bronzeada, Librederm",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/736/142_180_175511db9cefbc414a902a46f1b8fae16/6615589.jpg",
+    "price": 2384
+  },
+  {
+    "id": 307,
+    "name": "Солнцезащитный крем SPF 50 с Омега 3-6-9 и термальной водой Bronzeada, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/dfc/142_180_175511db9cefbc414a902a46f1b8fae16/6612441_s.jpg",
+    "price": 9281
+  },
+  {
+    "id": 308,
+    "name": "Масло-блеск SPF 10 Активатор интенсивного загара Bronzeada, Librederm, 150 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/d0d/142_180_175511db9cefbc414a902a46f1b8fae16/6612496.jpg",
+    "price": 7308
+  },
+  {
+    "id": 309,
+    "name": "Крем для лица и зоны декольте солнцезащитный SPF30 Bronzeada, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2d1/142_180_175511db9cefbc414a902a46f1b8fae16/6612236.jpg",
+    "price": 6650
+  },
+  {
+    "id": 310,
+    "name": "Крем для лица и зоны декольте солнцезащитный SPF50 Bronzeada, Librederm, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/3c3/142_180_175511db9cefbc414a902a46f1b8fae16/6612250.jpg",
+    "price": 7801
+  },
+  {
+    "id": 311,
+    "name": "Эмульсия для демакияжа глаз и губ, Beauty Style, 120 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/a5a/142_180_175511db9cefbc414a902a46f1b8fae16/4515911AR_01s_min.jpg",
+    "price": 8212
+  },
+  {
+    "id": 312,
+    "name": "Крем для век против морщин, Christian Breton, 15 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/83d/142_180_175511db9cefbc414a902a46f1b8fae16/481104s.jpg",
+    "price": 13966
+  },
+  {
+    "id": 313,
+    "name": "Сыворотка \"Идеальный тон кожи\", Christian Breton ",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/24c/142_180_175511db9cefbc414a902a46f1b8fae16/481223s.jpg",
+    "price": 24332
+  },
+  {
+    "id": 314,
+    "name": "Гидрогелевая увлажняющая маска со смягчающим эффектом для чувствительной кожи \"Комфорт\", Beauty Style 10 шт",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9ce/142_180_175511db9cefbc414a902a46f1b8fae16/4515883K_2s_min.jpg",
+    "price": 7349
+  },
+  {
+    "id": 315,
+    "name": "Зубная паста в тубе интенсивно отбеливающая ExtraWhite, Blanx, 50 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/52b/120_152_175511db9cefbc414a902a46f1b8fae16/img_4501705_1.jpg",
+    "price": 8960
+  },
+  {
+    "id": 316,
+    "name": "Крем для шеи «Комплексный Уход», Christian Breton, 50 мл,",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/0f1/142_180_175511db9cefbc414a902a46f1b8fae16/481720s.jpg",
+    "price": 29428
+  },
+  {
+    "id": 317,
+    "name": "Молочко очищающее для нормальной кожи , Christian Breton, 200 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/47e/142_180_175511db9cefbc414a902a46f1b8fae16/481420bs.jpg",
+    "price": 10662
+  },
+  {
+    "id": 318,
+    "name": "Лосьон для лица успокаивающий  «Энергия цветов», Christian Breton, 200 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/3ef/142_180_175511db9cefbc414a902a46f1b8fae16/481430_01s.jpg",
+    "price": 7974
+  },
+  {
+    "id": 319,
+    "name": "Маска для увядающей кожи «Золотая роскошь», Christian Breton, 50мл, ",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/2a9/142_180_175511db9cefbc414a902a46f1b8fae16/cfb447735s.jpg",
+    "price": 13522
+  },
+  {
+    "id": 320,
+    "name": "Крем Age Priority - Stop Surgery Peel Microabrasion, Christian Breton ",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/9f3/142_180_175511db9cefbc414a902a46f1b8fae16/481680s.jpg",
+    "price": 23345
+  },
+  {
+    "id": 321,
+    "name": "Крем ночной восстанавливающий «Энергия молодости», Christian Breton, 50мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/afe/142_180_175511db9cefbc414a902a46f1b8fae16/481670s.jpg",
+    "price": 22688
+  },
+  {
+    "id": 322,
+    "name": "Зубная паста Пародонтгель плюс Plus Parodontgel, Biorepair, 75 мл",
+    "image": "https://sozv.kz/upload/resize_cache/iblock/4f1/142_180_175511db9cefbc414a902a46f1b8fae16/9806646_01s_min.jpg",
+    "price": 8
+  }
+]

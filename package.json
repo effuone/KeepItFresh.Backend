@@ -1,17 +1,28 @@
 {
   "name": "keepitfresh.backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "hackathon project",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.19"
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19",
+    "pg-hstore": "^2.3.4",
+    "postgres-pool": "^6.0.3"
   }
 }
