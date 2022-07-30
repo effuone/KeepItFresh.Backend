@@ -18,7 +18,6 @@ authRouter.post('/login/', authController.login)
 authRouter.post('/confirmEmail/:id', authController.verifyEmail)
 export const productRouter = new Router();
 productRouter.post('/products/', isUser, productController.createProduct)
-productRouter.get('/products/', isUser, productController.getProducts)
 productRouter.get('/products/:id', isUser, productController.getProduct)
 productRouter.put('/products/:id', isUser, productController.updateProduct)
 productRouter.delete('/products/:id', isUser, productController.deleteProduct)
