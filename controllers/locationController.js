@@ -26,7 +26,7 @@ class locationController {
     }
     async getLocations(req,res){
         try{
-            const models = await pgPool.query('SELECT* FROM locations')
+            const models = await pgPool.query('SELECT locations.id, countries.name as country, cities.name as cities FROM locations, countries, cities WHERE locations.city_id = cities.id and locations.country_id = countries.id')
             res.json(models.rows)
         }catch(e){
             console.log(e)
