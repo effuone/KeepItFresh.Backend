@@ -60,8 +60,8 @@ countryRouter.put('/countries/:id', isAdmin, countryController.updateCountry)
 countryRouter.delete('/countries/:id', isAdmin, countryController.deleteCountry)
 export const locationRouter = new Router();
 locationRouter.post('/locations/', isAdmin, locationController.createLocation)
-locationRouter.get('/locations/',isAdmin, locationController.getLocations)
-locationRouter.get('/locations/:id',isAdmin, locationController.getLocation)
+locationRouter.get('/locations/',isUser, locationController.getLocations)
+locationRouter.get('/locations/:id',isUser, locationController.getLocation)
 locationRouter.put('/locations/:id',isAdmin, locationController.updateLocation)
 locationRouter.delete('/locations/:id',isAdmin, locationController.deleteLocation)
 export const cosmeticBagRouter = new Router();
