@@ -29,6 +29,7 @@ const getProductsPerPage = async (products, pagedUrl) => {
 }
 
 
+
 // const url = 'https://kaspi.kz/shop/c/makeup%20removers/'
 // let maxPage = 132;
 // const kaspiProducts = []
