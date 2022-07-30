@@ -32,7 +32,7 @@ class authController {
                 'VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10, $11) RETURNING *'
             , [username, birthday, firstName, image, skinTypeId,locationId,email,0,hashPassword,phoneNumber, isCosmeticBagAvailable])
             await pgPool.query('INSERT INTO userroles (userid, roleid) values ($1,$2) RETURNING *', [newUser.rows[0].id, 1])
-            const verificationLink = `${process.env.WEBAPP_URL}/confirmEmail/${(newUser.rows[0]).id}`
+            const verificationLink = `${process.env.WEBAPP_URL}confirmEmail/${(newUser.rows[0]).id}`
             console.log(verificationLink)
             sendEmail(
                 email, 
