@@ -36,8 +36,8 @@ brandRouter.put('/brands/:id', isAdmin, brandController.updateBrand)
 brandRouter.delete('/brands/:id', isAdmin, brandController.deleteBrand)
 export const skinTypeRouter = new Router();
 skinTypeRouter.post('/skinTypes/', isAdmin, skinTypeController.createSkinType)
-skinTypeRouter.get('/skinTypes/', isUser, skinTypeController.getSkinTypes)
-skinTypeRouter.get('/skinTypes/:id', isUser, skinTypeController.getSkinType)
+skinTypeRouter.get('/skinTypes/', skinTypeController.getSkinTypes)
+skinTypeRouter.get('/skinTypes/:id', skinTypeController.getSkinType)
 skinTypeRouter.put('/skinTypes/:id', isAdmin, skinTypeController.updateSkinType)
 skinTypeRouter.delete('/skinTypes/:id', isAdmin, skinTypeController.deleteSkinType)
 export const roleRouter = new Router();
@@ -60,8 +60,8 @@ countryRouter.put('/countries/:id', isAdmin, countryController.updateCountry)
 countryRouter.delete('/countries/:id', isAdmin, countryController.deleteCountry)
 export const locationRouter = new Router();
 locationRouter.post('/locations/', isAdmin, locationController.createLocation)
-locationRouter.get('/locations/',isUser, locationController.getLocations)
-locationRouter.get('/locations/:id',isUser, locationController.getLocation)
+locationRouter.get('/locations/', locationController.getLocations)
+locationRouter.get('/locations/:id', locationController.getLocation)
 locationRouter.put('/locations/:id',isAdmin, locationController.updateLocation)
 locationRouter.delete('/locations/:id',isAdmin, locationController.deleteLocation)
 export const cosmeticBagRouter = new Router();
