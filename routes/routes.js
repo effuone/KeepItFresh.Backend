@@ -10,6 +10,7 @@ import categoryController from "../controllers/categoryController";
 import brandController from "../controllers/brandController";
 import cosmeticBagController from "../controllers/cosmeticBagController";
 import subscriptionController from "../controllers/subscriptionController";
+import categorySkinTypeController from "../controllers/categorySkinTypeController";
 import { isAdmin, isUser } from "../middlewares";
 
 export const authRouter = new Router();
@@ -19,24 +20,26 @@ authRouter.post('/login/', authController.login)
 authRouter.get('/confirmEmail/:id', authController.verifyEmail)
 
 export const productRouter = new Router();
-productRouter.post('/products/', isUser, productController.createProduct)
+productRouter.post('/products/', productController.createProduct)
+productRouter.get('/products/', productController.getProducts)
+productRouter.get('/recommendations/:id', productController.getProductsForUser)
 productRouter.get('/products/:id', isUser, productController.getProduct)
 productRouter.put('/products/:id', isUser, productController.updateProduct)
 productRouter.delete('/products/:id', isUser, productController.deleteProduct)
 
 export const categoryRouter = new Router();
-categoryRouter.post('/categories/', isAdmin, categoryController.createCategory)
+categoryRouter.post('/categories/', categoryController.createCategory)
 categoryRouter.get('/categories/', isUser, categoryController.getCategories)
 categoryRouter.get('/categories/:id', isUser, categoryController.getCategory)
 categoryRouter.put('/categories/:id', isAdmin, categoryController.updateCategory)
 categoryRouter.delete('/categories/:id', isAdmin, categoryController.deleteCategory)
 
 export const brandRouter = new Router();
-brandRouter.post('/brands/', isAdmin, brandController.createBrand)
-brandRouter.get('/brands/', isUser, brandController.getBrands)
-brandRouter.get('/brands/:id', isUser, brandController.getBrand)
-brandRouter.put('/brands/:id', isAdmin, brandController.updateBrand)
-brandRouter.delete('/brands/:id', isAdmin, brandController.deleteBrand)
+brandRouter.post('/brands/', brandController.createBrand)
+brandRouter.get('/brands/', brandController.getBrands)
+brandRouter.get('/brands/:id', brandController.getBrand)
+brandRouter.put('/brands/:id', brandController.updateBrand)
+brandRouter.delete('/brands/:id', brandController.deleteBrand)
 
 export const skinTypeRouter = new Router();
 skinTypeRouter.post('/skinTypes/', isAdmin, skinTypeController.createSkinType)
@@ -84,3 +87,8 @@ export const subscriptionRouter = new Router();
 subscriptionRouter.post('/subs/', isUser, subscriptionController.subscribeToUser)
 subscriptionRouter.get('/subs/', isUser, subscriptionController.getUserSubscriptions)
 subscriptionRouter.delete('/subs/:id', isUser, subscriptionController.unfollow)
+
+export const categorySkinTypeRouter = new Router();
+categorySkinTypeRouter.post('/categoriesSkinTypes/', categorySkinTypeController.addSkinTypeToCategory)
+categorySkinTypeRouter.get('/categoriesSkinTypes/category/:id', isUser, categorySkinTypeController.getCategoriesOfSkinType)
+categorySkinTypeRouter.delete('/categoriesSkinTypes/skinType/:id', isUser, categorySkinTypeController.getSkinTypesOfCategory)

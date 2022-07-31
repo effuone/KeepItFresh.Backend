@@ -3,11 +3,11 @@ import pgPool from '../database/db'
 class productController {
     async createProduct(req,res){
         try{
-            const {name, image, price, storageDuration, categoryId, brandId, isAvailable, code} = req.body;
+            const {name, image, price, storageDuration, categoryId, brandId, isAvailable, code, numberOfRatings, rating} = req.body;
             const existingModel = await pgPool.query(`SELECT* from products where name like $1`, [name])
             if(existingModel.rowCount > 0) res.status(400).json('Product already exists')
-            const model = await pgPool.query(`INSERT INTO products (name, image, price, storageduration, categoryId, brandId, isavailable, code) VALUES ($1,$2,$3,$4,$5,$6,$7,$8) RETURNING *`,
-            [name, image, price, storageDuration, categoryId, brandId, isAvailable, code])
+            const model = await pgPool.query(`INSERT INTO products (name, image, price, storageduration, category_id, brand_id, isavailable, code, numberofratings, rating) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10) RETURNING *`,
+            [name, image, price, storageDuration, categoryId, brandId, isAvailable, code,numberOfRatings,rating ])
             res.status(200).json(model.rows[0])
         }catch(e){
             console.log(e)
@@ -27,8 +27,63 @@ class productController {
     }
     async getProducts(req,res){
         try{
-            const models = await pgPool.query('SELECT* FROM products')
-            res.json(models.rows)
+            const models = (await pgPool.query('SELECT* FROM products')).rows
+            const page = parseInt(req.query.page);
+            const limit = parseInt(req.query.limit);
+        
+            // calculating the starting and ending index
+            const startIndex = (page - 1) * limit;
+            const endIndex = page * limit;
+        
+            const results = {};
+            if (endIndex < models.length) {
+                results.next = {
+                page: page + 1,
+                limit: limit
+                };
+            }
+        
+            if (startIndex > 0) {
+                results.previous = {
+                page: page - 1,
+                limit: limit
+                };
+            }
+            results.results = models.slice(startIndex, endIndex);
+        
+            // res.paginatedResults = results;
+            res.json(results)
+        }catch(e){
+            console.log(e)
+        }
+    }
+    async getProductsForUser(req,res){
+        const userId = req.params.id;
+        try{
+            const models = (await pgPool.query('select products.id, products.name, products.image, products.price, products.storageduration, categories.name as category, brands.name as brand, products.numberofratings, products.rating from products, categories, skintypes, categoriesskintypes, users, brands where categoriesskintypes.category_id = categories.id and categoriesskintypes.skintype_id = skintypes.id and products.category_id = categories.id and users.skin_type_id = skintypes.id and products.brand_id = brands.id and users.id = $1', [userId])).rows
+            const page = parseInt(req.query.page);
+            const limit = parseInt(req.query.limit);
+        
+            // calculating the starting and ending index
+            const startIndex = (page - 1) * limit;
+            const endIndex = page * limit;
+        
+            const results = {};
+            if (endIndex < models.length) {
+                results.next = {
+                page: page + 1,
+                limit: limit
+                };
+            }
+        
+            if (startIndex > 0) {
+                results.previous = {
+                page: page - 1,
+                limit: limit
+                };
+            }
+            results.results = models.slice(startIndex, endIndex);
+            res.json(results)
         }catch(e){
             console.log(e)
         }

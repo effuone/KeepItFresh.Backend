@@ -48,6 +48,12 @@ CREATE TABLE categories (
     name VARCHAR(256) NOT NULL
 );
 
+CREATE TABLE categoriesskintypes(
+    category_id INT REFERENCES categories (id) ON UPDATE CASCADE ON DELETE CASCADE,
+    skintype_id INT REFERENCES skintypes (id)ON UPDATE CASCADE ON DELETE CASCADE,
+    CONSTRAINT PK_categories_skintypes PRIMARY KEY (category_id, skintype_id)
+);
+
 CREATE TABLE brands (
     id SERIAL PRIMARY KEY,
     name VARCHAR(256) NOT NULL
@@ -61,7 +67,9 @@ CREATE TABLE products (
     storageDuration INT NOT NULL,
     category_id INT REFERENCES categories (id) ON UPDATE CASCADE ON DELETE CASCADE,
     brand_id INT REFERENCES brands (id) ON UPDATE CASCADE ON DELETE CASCADE,
-    isAvailable boolean not null,
+    numberOfRatings INT NOT NULL,
+    rating INT NOT NULL,
+    isAvailable boolean NOT NULL,
     code VARCHAR(256) NULL
 );
 
@@ -93,6 +101,7 @@ DROP TABLE comments;
 DROP TABLE products;
 DROP TABLE brands;
 DROP TABLE categories;
+DROP TABLE categoriesskintypes;
 DROP TABLE userroles;
 DROP TABLE users;
 DROP TABLE locations;
