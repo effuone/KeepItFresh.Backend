@@ -139,7 +139,7 @@ class authController {
     async getUser(req,res){
         try{
             const id = req.params.id
-            const model = await pgPool.query(`SELECT users.username, users.image, users.first_name, skintypes.name as skintype, FROM users where id = $1`, [id])
+            const model = await pgPool.query(`SELECT users.username, users.image, users.first_name, skintypes.name as skintype FROM users, skintypes where users.skin_type_id = skintypes.id and users.id = $1`, [id])
             if(model.rowCount > 0)
                 res.json(model.rows[0])
             else 
